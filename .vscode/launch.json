@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-CasaDoPastelVotuApplication<casa-do-pastel-votu>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "br.com.casadopastel.casadopastelvotu.CasaDoPastelVotuApplication",
+      "projectName": "casa-do-pastel-votu",
+      "args": ""
+    }
+  ]
+}
