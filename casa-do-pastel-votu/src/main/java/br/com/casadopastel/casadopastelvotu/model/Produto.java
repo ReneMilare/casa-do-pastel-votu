@@ -23,8 +23,10 @@ public class Produto {
 
   @NotBlank
   private String nomeProduto;
+
   @NotBlank
   private String descricaoProduto;
+  
   @NotBlank
   private BigDecimal preco;
   
